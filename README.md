@@ -1,32 +1,14 @@
 Primer commit
 
+Comment en primera branch
+
+Segundo comment en primera branch
 
 
+Primer coment en segunda branch
 
+segundo coment en segunda branch
 
+tercer comment ens egunda branch
 
-
-
-Segundo commit main
-
-
-
-
-
-
-
-
-
-Segundo commit main
-
-
-
-
-
-
-
-
-
-tercer commit main
 cuarto
-quinto
